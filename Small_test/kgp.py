@@ -14,7 +14,7 @@ kgp.py template.xml reads from template.xml to decide what to generate
 
 from xml.dom import minidom
 import random
-import toolbox
+from Small_test import toolbox
 import sys
 import getopt
 _debug = 0

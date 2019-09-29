@@ -1,5 +1,5 @@
 import re
-from BaseHTMLProcessor import BaseHTMLProcessor
+from Small_test.BaseHTMLProcessor import BaseHTMLProcessor
 
 class Dialectizer(BaseHTMLProcessor):
 	subs = ()
