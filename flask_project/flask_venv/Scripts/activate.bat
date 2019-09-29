@@ -9,7 +9,8 @@ if defined _OLD_VIRTUAL_PROMPT (
     )
     set "_OLD_VIRTUAL_PROMPT=%PROMPT%"
 )
-set "PROMPT=(flask_venv) %PROMPT%"
+#set "PROMPT=(flask_venv) %PROMPT%"
+set "PROMPT=(flask_venv) $"
 
 REM Don't use () to avoid problems with them in %PATH%
 if defined _OLD_VIRTUAL_PYTHONHOME goto ENDIFVHOME
