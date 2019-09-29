@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note1>
+  <to>Tove</to>
+  <from>Jani</from>
+  <heading>Reminder</heading>
+  <body>Don't forget me this weekend!</body>
+  <test id='1'>1</test>
+  <test id='2'>2</test>
+  <grammer>
+	<ref id='bit' tc='bb'>
+		<p>0</p>
+	</ref>
+	<ref id='byte'>
+		<p>2</p>
+	</ref>
+  </grammer>
+</note1>

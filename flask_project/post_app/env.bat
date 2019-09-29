@@ -1,0 +1,7 @@
+set FLASK_APP=flasky.py
+set FLASK_DEBUG=True
+set FLASK_CONFIG=production
+set MAIL_SERVER=smtp.139.com
+set MAIL_PORT=25
+set MAIL_USERNAME=15915838537@139.com
+set MAIL_PASSWORD=Gaoyu1117

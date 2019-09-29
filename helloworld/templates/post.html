@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>search-post</title>
+	</head>
+	<body>
+		<form action="/search-post" method="post">
+			{% csrf_token %}
+			<input type="text" name="q">
+			<input type="submit" value="SEARCH">
+		</form>
+		
+		<p>{{rlt}}</p>
+	</body>
+</html>
